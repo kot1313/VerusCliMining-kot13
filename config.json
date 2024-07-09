@@ -11,7 +11,7 @@
 		"timeout": 150
 	},
 	{
-		"name": "Vipor",
+		"name": "Vipor,Samsung"
         	"url": "stratum+tcp://ro.vipor.net:5040",
 		"timeout": 150
 	}
