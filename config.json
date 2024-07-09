@@ -6,7 +6,7 @@
 		"timeout": 150
 	},
 	{
-		"name": "Vipor",
+		"name": "Vipor"
         	"url": "stratum+tcp://pl.vipor.net:5040",
 		"timeout": 150
 	},
